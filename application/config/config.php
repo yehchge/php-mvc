@@ -25,7 +25,7 @@ define('URL', 'http://localhost/php-mvc/');
  * This is the place where you define your database credentials, database type etc.
  */
 define('DB_TYPE', 'mysql');
-define('DB_HOST', '127.0.0.1');
+define('DB_HOST', 'localhost');
 define('DB_NAME', 'php-mvc');
 define('DB_USER', 'bill');
 define('DB_PASS', 'bill098');
